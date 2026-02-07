@@ -1,0 +1,20 @@
+{
+  "name": "msm-ai-pack",
+  "version": "1.0.0",
+  "description": "MSM - Pack AI DaDa:bit (WonderCam) : Genaral + 10 leçons (Mode B)",
+  "license": "MIT",
+  "author": "MSM MEDIAS",
+  "dependencies": {
+    "core": "*",
+    "dadabit": "github:hiwonder/DaDabit",
+    "WonderCam": "github:Hiwonder/WonderCam"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "supportedTargets": [
+    "microbit"
+  ],
+  "preferredEditor": "blocksprj",
+  "public": true
+}
